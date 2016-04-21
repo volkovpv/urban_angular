@@ -1,0 +1,26 @@
+{
+  "name": "urban_angular",
+  "version": "0.0.1",
+  "description": "template urban with angular and gulp ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovpv/urban_angular.git"
+  },
+  "keywords": [
+    "urban",
+    "template",
+    "angular",
+    "bootstrap",
+    "less"
+  ],
+  "author": "volkovpv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkovpv/urban_angular/issues"
+  },
+  "homepage": "https://github.com/volkovpv/urban_angular#readme"
+}
