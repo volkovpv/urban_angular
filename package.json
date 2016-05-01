@@ -22,5 +22,25 @@
   "bugs": {
     "url": "https://github.com/volkovpv/urban_angular/issues"
   },
-  "homepage": "https://github.com/volkovpv/urban_angular#readme"
+  "homepage": "https://github.com/volkovpv/urban_angular#readme",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-html-src": "^1.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-ngdocs": "^0.2.13",
+    "gulp-replace": "^0.5.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "spa-server": "^1.0.0"
+  }
 }

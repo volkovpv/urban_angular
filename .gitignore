@@ -3,3 +3,5 @@
 *.iml
 dist
 node_modules
+
+src/vendor
