@@ -1,7 +1,12 @@
 # project files
-.idea
 *.iml
-dist
-node_modules
+*.log
 
-src/vendor
+# project dir
+.idea/
+
+dist/
+node_modules/
+docs/
+src/vendor/
+coverage/
