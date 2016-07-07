@@ -30,5 +30,5 @@ angular
     dark: '#4C5064',
     border: '#e4e4e4',
     bodyBg: '#e0e8f2',
-    textColor: '#6B6B6B',
+    textColor: '#6B6B6B'
   });
